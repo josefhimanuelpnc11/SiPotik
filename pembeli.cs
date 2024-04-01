@@ -14,6 +14,8 @@ namespace SiPotik
     {
 
         int x;
+        int c;
+        int adrian;
         public pembeli()
         {
             InitializeComponent();
