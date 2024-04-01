@@ -12,6 +12,8 @@ namespace SiPotik
 {
     public partial class pembeli : Form
     {
+
+        int x;
         public pembeli()
         {
             InitializeComponent();
